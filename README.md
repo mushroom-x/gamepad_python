@@ -105,7 +105,7 @@ pad.left_joystick.on_change = left_joystick_change
 pad.start_event_listener_thread()
 ```
 
-详细信息，见手册 [GamePad库Python使用示例](doc/GamePad库Python使用示例/GamePad库Python使用示例.md)
+详细信息，见手册 [GamePad库Python使用示例](doc/3.GamePad库Python使用示例/GamePad库Python使用示例.md)
 
 
 
